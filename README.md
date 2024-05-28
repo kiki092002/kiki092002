@@ -1,7 +1,7 @@
 # 💫 About Me:
 - A recent Computer Science graduate from Seattle University, I am dedicated to creating innovative and user-centric software solutions. I excel in collaborative environments and am driven by a constant desire to learn and improve.
 - I'm currently working on building Real-World Application with Java (JSP,JDBC, Servlets, Swing, Spring Boot, Maven, Hibernate)
-![](https://github.com/kiki092002/intro-self.gif)
+![](https://github.com/kiki092002/introSelf.gif)
 
 
 ## 🌐 Socials:
