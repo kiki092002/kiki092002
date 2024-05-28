@@ -1,9 +1,7 @@
 # 💫 About Me:
 - A recent Computer Science graduate from Seattle University, I am dedicated to creating innovative and user-centric software solutions. I excel in collaborative environments and am driven by a constant desire to learn and improve.
 - I'm currently working on building Real-World Application with Java (JSP,JDBC, Servlets, Swing, Spring Boot, Maven, Hibernate)
-<img src="[/images/output/video1.gif](https://github.com/kiki092002/kiki092002/blob/main/introSelf.gif)" width="250" height="250"/>
   
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nngahoang) 
@@ -24,3 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kiki092002&icon=0&color=1)](https://visitcount.itsvg.in)
 
+![](https://github.com/kiki092002/kiki092002/blob/main/introSelf.gif)
