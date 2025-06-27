@@ -1,6 +1,6 @@
 # 💫 Hey, I'm Ashley:
 - A recent Computer Science graduate from Seattle University, I am dedicated to creating innovative and user-centric software solutions. I excel in collaborative environments and am driven by a constant desire to learn and improve.
-- I'm currently looking for Data Analysis ,Full-stack Software Developer jobs.
+- I'm currently looking for Data Analysis , Software Developer jobs.
   
 
 ## 🌐 Socials:
